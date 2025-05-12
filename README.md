@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Dominic Flanagan
 
-<!--
-**domflan/domflan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business Analytics student at the University of Iowa  
+📊 Passionate about using data to uncover insights, drive strategy, and solve real-world problems  
+🏀 Especially interested in sports analytics, predictive modeling, and data-driven consulting  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Featured Projects
+
+### 🏀 [NBA Salary Analysis](https://github.com/domflan/domflan/raw/main/NBA Advanced-TraditionalStatsVsSalary.pdf)
+Used advanced and basic metrics to explore the drivers of NBA player salaries. Compared predictive power of traditional stats (e.g. points, rebounds) vs. advanced stats (e.g. win shares, true shooting %).
+
+### 💼 [Salary Prediction for Data Science Roles](https://github.com/domflan/domflan/raw/main/Data Science Salary Analysis Insights and Predictive Modeling for Competitive Hiring Strategies.pdf)
+Built regression and tree-based models to help TechHire Recruiting estimate salary ranges for data science roles using real-world salary data. Final recommendations supported salary benchmarking for hiring strategy.
+
+---
+
+## 📄 [Download My Resume](https://github.com/domflan/domflan/raw/main/Dominic Flanagan Resume.pdf)
+
+---
+
+## 🛠️ Skills & Tools
+
+`Python` `Pandas` `scikit-learn` `SQL` `Tableau` `HTML/CSS` `Flask` `Git` `Excel`
+
+---
+
+## 🔗 Links
+
+🌐 [Portfolio Website](https://dominicflanagan.me)  
+📎 [LinkedIn](https://www.linkedin.com/in/domflanagan3/)  
