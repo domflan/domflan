@@ -8,15 +8,15 @@
 
 ## 🔍 Featured Projects
 
-### 🏀 [NBA Salary Analysis](https://github.com/domflan/domflan/raw/main/NBA Advanced-TraditionalStatsVsSalary.pdf)
+### 🏀 [NBA Salary Analysis](https://github.com/domflan/domflan/raw/main/NBA_Advanced-TraditionalStatsVsSalary.pdf)
 Used advanced and basic metrics to explore the drivers of NBA player salaries. Compared predictive power of traditional stats (e.g. points, rebounds) vs. advanced stats (e.g. win shares, true shooting %).
 
-### 💼 [Salary Prediction for Data Science Roles](https://github.com/domflan/domflan/raw/main/Data Science Salary Analysis Insights and Predictive Modeling for Competitive Hiring Strategies.pdf)
+### 💼 [Salary Prediction for Data Science Roles](https://github.com/domflan/domflan/raw/main/Data_Science_Salary_Analysis_Insights_and_Predictive_Modeling_for_Competitive_Hiring_Strategies.pdf)
 Built regression and tree-based models to help TechHire Recruiting estimate salary ranges for data science roles using real-world salary data. Final recommendations supported salary benchmarking for hiring strategy.
 
 ---
 
-## 📄 [Download My Resume](https://github.com/domflan/domflan/raw/main/Dominic Flanagan Resume.pdf)
+## 📄 [Download My Resume](https://github.com/domflan/domflan/raw/main/Dominic_Flanagan_Resume.pdf)
 
 ---
 
